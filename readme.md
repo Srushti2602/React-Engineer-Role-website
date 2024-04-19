@@ -1,5 +1,4 @@
-# Project Title
-React-Engineer-Role-website
+# React-Engineer-Role-website
 
 ## Description
 Build a website using react for employers and for developers . You can enter the job details and description as an employer .I used Vite and Tailwind (for css)
